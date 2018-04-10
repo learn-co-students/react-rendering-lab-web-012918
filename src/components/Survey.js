@@ -35,6 +35,6 @@ class Survey extends React.Component {
       </div>
     )
   }
-}
+} 
 
 export default Survey;
