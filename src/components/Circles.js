@@ -39,4 +39,4 @@ class Circles extends React.Component {
   }
 }
 
-export default Circles;
+export default Circles; 
